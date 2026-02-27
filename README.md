@@ -58,28 +58,10 @@ const dev = {
 
 ---
 
-## 📊 Stats
-
-<div align="center">
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=CcastilloMoraga&show_icons=true&count_private=true&theme=midnight-purple&bg_color=0d0d0d&border_color=2d0050&icon_color=9966cc&title_color=e0c8ff&text_color=a090b0" />
-&nbsp;
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CcastilloMoraga&layout=compact&count_private=true&theme=midnight-purple&bg_color=0d0d0d&border_color=2d0050&title_color=e0c8ff&text_color=a090b0" />
-
-</div>
-
----
-
 ## 🐍 Contributions
 
 <div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/CcastilloMoraga/CcastilloMoraga/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/CcastilloMoraga/CcastilloMoraga/output/github-contribution-grid-snake.svg" />
-  <img alt="Snake animation" src="https://raw.githubusercontent.com/CcastilloMoraga/CcastilloMoraga/output/github-contribution-grid-snake-dark.svg" />
-</picture>
-
+<img src="https://raw.githubusercontent.com/CcastilloMoraga/CcastilloMoraga/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" width="100%"/>
 </div>
 
 ---

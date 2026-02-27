@@ -1,10 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:0d0d0d,50:2d0050,100:0d0d0d&height=160&section=header&text=CcastilloMoraga&fontSize=52&fontColor=e0c8ff&fontAlignY=55&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:0d0d0d,50:2d0050,100:0d0d0d&height=160&section=header&text=Vassago&fontSize=52&fontColor=e0c8ff&fontAlignY=55&animation=fadeIn" />
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3000&pause=1000&color=9966CC&center=true&vCenter=true&width=500&height=40&lines=Full+Stack+Developer;.NET+%7C+C%23+%7C+Angular+%7C+React;Python+%7C+TypeScript+%7C+Tailwind;Building+things+that+don%27t+break+at+3am." alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3000&pause=1000&color=9966CC&center=true&vCenter=true&width=850&height=40&lines=Full+Stack+Developer;.NET+%7C+C%23+%7C+Angular+%7C+React+%7C+Python+%7C+TypeScript+%7C+Tailwind;Construyendo+cosas+que+no+fallan+a+las+3+am." alt="Typing SVG" />
 
 <br/><br/>
 
@@ -15,19 +15,30 @@
 
 ---
 
-## `> whoami`
+### `>  Sobre mí 👩‍💻`
 
-```typescript
-const dev = {
-  name     : "CcastilloMoraga",
-  focus    : ["Full Stack", "Clean Architecture", "Things that don't break at 3am"],
-  stack    : [".NET", "C#", "Angular", "React", "TypeScript", "Python", "Tailwind"],
-  currently: "Turning coffee into pull requests",
-  vibe     : "Dark theme, light errors"
-};
-```
-
+<table>
+  <tr>
+    <td width="50%">
+      <img src="https://i.pinimg.com/originals/a0/0b/b3/a00bb3a2fb6bc67e5bbdf6e44b54e3cb.gif" width="100%">
+    </td>
+    <td width="50%">
+      <h3>¡Hola! Soy Cristian Castillo 👋</h3>
+      <p>Desarrollador Full Stack apasionado por la arquitectura limpia y por construir cosas que si funcionan jaja :p </p>
+      <br>
+      <ul>
+        <li>📍 <b>Base de operaciones:</b> Concepción, Chile.</li>
+        <li>💻 <b>Stack principal:</b> C#, .NET, React, SQL Server. y  muchas mas chucherias </li>
+        <li>⚙️ <b>Actualmente trabajando en:</b> Sistemas de tótems de automatización y plataformas web (C# / React / Tailwind).</li>
+        <li>🎲 <b>Cuando no estoy programando:</b> Me encuentras jugando alguna cosilla, Faneando One Piece o Viviendo la vida fuera de las Pantallas.</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 ---
+
+
+
 
 ## 🛠️ Stack
 

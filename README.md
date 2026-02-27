@@ -19,8 +19,8 @@
 
 <table>
   <tr>
-    <td width="50%">
-      <img src="https://i.pinimg.com/originals/a0/0b/b3/a00bb3a2fb6bc67e5bbdf6e44b54e3cb.gif" width="100%">
+  <td width="50%">
+      <img src="https://github.com/user-attachments/assets/8bf849d2-1fdd-441f-8732-fd1e1f47321b" width="100%">
     </td>
     <td width="50%">
       <h3>¡Hola! Soy Cristian Castillo 👋</h3>
@@ -28,15 +28,13 @@
       <br>
       <ul>
         <li>📍 <b>Base de operaciones:</b> Concepción, Chile.</li>
-        <li>💻 <b>Stack principal:</b> C#, .NET, React, SQL Server. y  muchas mas chucherias </li>
+        <li>💻 <b>Stack principal:</b> C#, .NET, React, SQL Server y muchas más chucherías.</li>
         <li>⚙️ <b>Actualmente trabajando en:</b> Sistemas de tótems de automatización y plataformas web (C# / React / Tailwind).</li>
         <li>🎲 <b>Cuando no estoy programando:</b> Me encuentras jugando alguna cosilla, Faneando One Piece o Viviendo la vida fuera de las Pantallas.</li>
       </ul>
     </td>
   </tr>
 </table>
----
-
 
 
 

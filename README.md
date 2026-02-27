@@ -4,7 +4,7 @@
 
 **Software Developer** · **IoT Engineer** · **Chile 🇨🇱**
 
-*Especializado en sistemas embebidos, .NET y desarrollo full-stack*
+*Especializado en Desarrollo de Sistemas a medida ,C# - Python - SQL - Desarrollo full-stack*
 
 [![GitHub](https://img.shields.io/badge/GitHub-CcastilloMoraga-181717?style=for-the-badge&logo=github)](https://github.com/CcastilloMoraga)
 [![Status](https://img.shields.io/badge/Status-Disponible-00d97e?style=for-the-badge)]()

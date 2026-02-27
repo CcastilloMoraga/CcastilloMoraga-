@@ -1,14 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d0d0d,50:2d0050,100:1a0030&height=220&section=header&text=CcastilloMoraga&fontSize=55&fontColor=e0c8ff&fontAlignY=45&animation=fadeIn&desc=Full%20Stack%20Developer&descSize=16&descAlignY=65&descFontColor=9966cc" />
+<img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:0d0d0d,50:2d0050,100:0d0d0d&height=160&section=header&text=CcastilloMoraga&fontSize=52&fontColor=e0c8ff&fontAlignY=55&animation=fadeIn" />
 
-</div>
+<br/>
 
-<div align="center">
-
-<a href="https://git.io/typing-svg">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=9966CC&center=true&vCenter=true&width=600&lines=Building+things+that+actually+work.;.NET+%7C+Angular+%7C+React+%7C+Python;Sometimes+the+dark+theme+IS+the+personality.;Open+to+collaborate+on+something+cool." alt="Typing SVG" />
-</a>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3000&pause=1000&color=9966CC&center=true&vCenter=true&width=500&height=40&lines=Full+Stack+Developer;.NET+%7C+C%23+%7C+Angular+%7C+React;Python+%7C+TypeScript+%7C+Tailwind;Building+things+that+don%27t+break+at+3am." alt="Typing SVG" />
 
 <br/><br/>
 
@@ -30,8 +26,6 @@ const dev = {
   vibe     : "Dark theme, light errors"
 };
 ```
-
-<br/>
 
 ---
 
@@ -62,31 +56,31 @@ const dev = {
 
 </div>
 
-<br/>
-
 ---
 
 ## 📊 Stats
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=CcastilloMoraga&show_icons=true&theme=midnight-purple&bg_color=0d0d0d&border_color=2d0050&icon_color=9966cc&title_color=e0c8ff&text_color=a090b0&hide_border=false&rank_icon=github" />
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CcastilloMoraga&layout=compact&theme=midnight-purple&bg_color=0d0d0d&border_color=2d0050&title_color=e0c8ff&text_color=a090b0" />
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=CcastilloMoraga&show_icons=true&count_private=true&theme=midnight-purple&bg_color=0d0d0d&border_color=2d0050&icon_color=9966cc&title_color=e0c8ff&text_color=a090b0" />
+&nbsp;
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CcastilloMoraga&layout=compact&count_private=true&theme=midnight-purple&bg_color=0d0d0d&border_color=2d0050&title_color=e0c8ff&text_color=a090b0" />
 
 </div>
-
-<br/>
 
 ---
 
 ## 🐍 Contributions
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/CcastilloMoraga/CcastilloMoraga/output/github-contribution-grid-snake-dark.svg" />
-</div>
 
-<br/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/CcastilloMoraga/CcastilloMoraga/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/CcastilloMoraga/CcastilloMoraga/output/github-contribution-grid-snake.svg" />
+  <img alt="Snake animation" src="https://raw.githubusercontent.com/CcastilloMoraga/CcastilloMoraga/output/github-contribution-grid-snake-dark.svg" />
+</picture>
+
+</div>
 
 ---
 

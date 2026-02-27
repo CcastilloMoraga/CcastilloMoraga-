@@ -73,7 +73,7 @@ const dev = {
 ## 🐍 Contributions
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/CcastilloMoraga/CcastilloMoraga/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" width="100%"/>
+<img src="https://raw.githubusercontent.com/CcastilloMoraga/CcastilloMoraga-/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" width="100%"/>
 </div>
 
 ---

@@ -44,24 +44,69 @@
 
 **Languages**
 
-![TypeScript](https://img.shields.io/badge/TypeScript-0d0d0d?style=for-the-badge&logo=typescript&logoColor=3178C6)
+![Bash](https://img.shields.io/badge/Bash-0d0d0d?style=for-the-badge&logo=gnu-bash&logoColor=4EAA25)
+![C#](https://img.shields.io/badge/C%23-0d0d0d?style=for-the-badge&logo=csharp&logoColor=239120)
+![CSS3](https://img.shields.io/badge/CSS3-0d0d0d?style=for-the-badge&logo=css3&logoColor=1572B6)
+![HTML5](https://img.shields.io/badge/HTML5-0d0d0d?style=for-the-badge&logo=html5&logoColor=E34F26)
+![Java](https://img.shields.io/badge/Java-0d0d0d?style=for-the-badge&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-0d0d0d?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![Markdown](https://img.shields.io/badge/Markdown-0d0d0d?style=for-the-badge&logo=markdown&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-0d0d0d?style=for-the-badge&logo=nodedotjs&logoColor=339933)
 ![Python](https://img.shields.io/badge/Python-0d0d0d?style=for-the-badge&logo=python&logoColor=3776AB)
-![C#](https://img.shields.io/badge/C%23-0d0d0d?style=for-the-badge&logo=csharp&logoColor=9B59B6)
+![Sass](https://img.shields.io/badge/Sass-0d0d0d?style=for-the-badge&logo=sass&logoColor=CC6699)
+![SQL](https://img.shields.io/badge/SQL-0d0d0d?style=for-the-badge&logo=sqlite&logoColor=07405E)
+![TypeScript](https://img.shields.io/badge/TypeScript-0d0d0d?style=for-the-badge&logo=typescript&logoColor=3178C6)
 
-**Frameworks**
+<br/>
 
-![Angular](https://img.shields.io/badge/Angular-0d0d0d?style=for-the-badge&logo=angular&logoColor=DD0031)
-![React](https://img.shields.io/badge/React-0d0d0d?style=for-the-badge&logo=react&logoColor=61DAFB)
+**Frameworks and Libraries**
+
+![Apollo](https://img.shields.io/badge/Apollo-0d0d0d?style=for-the-badge&logo=apollographql&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-0d0d0d?style=for-the-badge&logo=bootstrap&logoColor=7952B3)
 ![.NET](https://img.shields.io/badge/.NET-0d0d0d?style=for-the-badge&logo=dotnet&logoColor=512BD4)
+![Electron](https://img.shields.io/badge/Electron-0d0d0d?style=for-the-badge&logo=electron&logoColor=47848F)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-0d0d0d?style=for-the-badge&logo=githubactions&logoColor=2088FF)
+![GraphQL](https://img.shields.io/badge/GraphQL-0d0d0d?style=for-the-badge&logo=graphql&logoColor=E10098)
+![JUnit](https://img.shields.io/badge/JUnit-0d0d0d?style=for-the-badge&logo=junit5&logoColor=25A162)
+![NestJS](https://img.shields.io/badge/NestJS-0d0d0d?style=for-the-badge&logo=nestjs&logoColor=E0234E)
+![NextJS](https://img.shields.io/badge/Next.js-0d0d0d?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-0d0d0d?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Tauri](https://img.shields.io/badge/Tauri-0d0d0d?style=for-the-badge&logo=tauri&logoColor=FFC131)
+![Unity](https://img.shields.io/badge/Unity-0d0d0d?style=for-the-badge&logo=unity&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind-0d0d0d?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4)
 
-**Tools**
+<br/>
 
+**Software**
+
+![Apache](https://img.shields.io/badge/Apache-0d0d0d?style=for-the-badge&logo=apache&logoColor=D22128)
+![Debian](https://img.shields.io/badge/Debian-0d0d0d?style=for-the-badge&logo=debian&logoColor=A81D33)
 ![Git](https://img.shields.io/badge/Git-0d0d0d?style=for-the-badge&logo=git&logoColor=F05032)
-![Docker](https://img.shields.io/badge/Docker-0d0d0d?style=for-the-badge&logo=docker&logoColor=2496ED)
+![Insomnia](https://img.shields.io/badge/Insomnia-0d0d0d?style=for-the-badge&logo=insomnia&logoColor=5849BE)
+![Nginx](https://img.shields.io/badge/Nginx-0d0d0d?style=for-the-badge&logo=nginx&logoColor=009639)
+![Notion](https://img.shields.io/badge/Notion-0d0d0d?style=for-the-badge&logo=notion&logoColor=white)
+![Trello](https://img.shields.io/badge/Trello-0d0d0d?style=for-the-badge&logo=trello&logoColor=0052CC)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-0d0d0d?style=for-the-badge&logo=ubuntu&logoColor=E95420)
 ![VS Code](https://img.shields.io/badge/VS_Code-0d0d0d?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC)
-![Azure](https://img.shields.io/badge/Azure-0d0d0d?style=for-the-badge&logo=microsoftazure&logoColor=0078D4)
+![Visual Studio](https://img.shields.io/badge/Visual_Studio-0d0d0d?style=for-the-badge&logo=visualstudio&logoColor=5C2D91)
+![Power Bi](https://img.shields.io/badge/Power_BI-0d0d0d?style=for-the-badge&logo=powerbi&logoColor=F2C811)
+![Hikvision](https://img.shields.io/badge/Hikvision-0d0d0d?style=for-the-badge)
+![Antigravity](https://img.shields.io/badge/Antigravity-0d0d0d?style=for-the-badge)
+![Docker](https://img.shields.io/badge/Docker-0d0d0d?style=for-the-badge&logo=docker&logoColor=2496ED)
+![SAP](https://img.shields.io/badge/SAP-0d0d0d?style=for-the-badge&logo=sap&logoColor=0FAAFF)
+
+<br/>
+
+**Cloud and Providers**
+
+![AWS](https://img.shields.io/badge/AWS-0d0d0d?style=for-the-badge&logo=amazonaws&logoColor=FF9900)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-0d0d0d?style=for-the-badge&logo=cloudflare&logoColor=F38020)
+![GitHub Pages](https://img.shields.io/badge/GitHub_Pages-0d0d0d?style=for-the-badge&logo=githubpages&logoColor=white)
+![MariaDB](https://img.shields.io/badge/MariaDB-0d0d0d?style=for-the-badge&logo=mariadb&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-0d0d0d?style=for-the-badge&logo=mongodb&logoColor=47A248)
+![MySQL](https://img.shields.io/badge/MySQL-0d0d0d?style=for-the-badge&logo=mysql&logoColor=4479A1)
+![Redis](https://img.shields.io/badge/Redis-0d0d0d?style=for-the-badge&logo=redis&logoColor=DC382D)
+![Vercel](https://img.shields.io/badge/Vercel-0d0d0d?style=for-the-badge&logo=vercel&logoColor=white)
 
 </div>
 

@@ -58,6 +58,18 @@ const dev = {
 
 ---
 
+## 📊 Stats
+
+<div align="center">
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=CcastilloMoraga&show_icons=true&count_private=true&include_all_commits=true&theme=midnight-purple&bg_color=0d0d0d&border_color=2d0050&icon_color=9966cc&title_color=e0c8ff&text_color=a090b0" />
+&nbsp;
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CcastilloMoraga&layout=compact&count_private=true&theme=midnight-purple&bg_color=0d0d0d&border_color=2d0050&title_color=e0c8ff&text_color=a090b0&hide=html" />
+
+</div>
+
+---
+
 ## 🐍 Contributions
 
 <div align="center">
@@ -68,6 +80,3 @@ const dev = {
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,100:2d0050&height=100&section=footer" />
-
-</div>
